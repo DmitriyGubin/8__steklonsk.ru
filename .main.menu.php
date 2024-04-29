@@ -1,0 +1,53 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Главная", 
+		SITE_DIR."/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"О компании", 
+		SITE_DIR."/about/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Услуги", 
+		SITE_DIR."/services/?type=montazh-zerkal", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Товары", 
+		SITE_DIR."/catalog/zerkalo/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Статьи", 
+		SITE_DIR."/articles/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		SITE_DIR."/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Каталог", 
+		SITE_DIR."/products/?type=zerkalo", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
